@@ -1,4 +1,4 @@
-# telenet-sys
+# telnet-sys
 A kernel that only does telnet (modified from ilo pali).
 
 ## Build instructions
